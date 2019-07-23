@@ -1,3 +1,39 @@
-# My Awesome Book
+# Git conventional commit
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+##### **Format**
+
+```
+<type>[optional scope]: <description>
+
+[optional body]
+
+[optional footer]
+```
+
+##### 
+
+##### Type
+
+* feat\(feature\)
+* fix
+* refactor
+* chore\(change a little/small\)
+* docs
+* style
+* perf \(performance\)
+* vendor \(dependencies, packages\)
+
+
+
+##### Example
+
+```
+feat: implement multi-languages
+
+fix: homepage's bug
+
+fix(player): uiza player can not initialize
+```
+
+
+
